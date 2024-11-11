@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+}
+
+.divq {
+  width: 300px;
+  height: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #afafaf;
+  padding: 1rem;
+  font-size: 1.5rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 2rem;
+  cursor: pointer;
+}
+.diva {
+  background-color: lightgreen;
+}
